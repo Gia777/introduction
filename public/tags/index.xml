@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Introduction</title>
+    <title>Tags on Hi Gia</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Introduction</description>
+    <description>Recent content in Tags on Hi Gia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
@@ -26,6 +26,24 @@
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
       <guid>/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gia</title>
+      <link>/tags/gia/</link>
+      <pubDate>Wed, 16 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/gia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanna</title>
+      <link>/tags/hanna/</link>
+      <pubDate>Wed, 16 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/hanna/</guid>
       <description></description>
     </item>
     

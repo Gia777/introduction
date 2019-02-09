@@ -1,7 +1,7 @@
-baseURL                          = "https://inspiring-wilson-de7968.netlify.com/"  # Your domain name. Must end with "/"
+baseURL                          = "https://giawei.com/"  # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
+# disqusshortname                 = "the-kindest-thing-you-do-is-leave-a-comment"                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
@@ -81,7 +81,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Hi Gia"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)

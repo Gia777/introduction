@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction</title>
+    <title>Hi Gia</title>
     <link>/</link>
-    <description>Recent content on Introduction</description>
+    <description>Recent content on Hi Gia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -41,7 +41,16 @@ To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon fro
     </item>
     
     <item>
-      <title>Hipster Ipsum</title>
+      <title>Test post jkk</title>
+      <link>/blog/testpost/</link>
+      <pubDate>Wed, 16 Jan 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/testpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
       <link>/blog/hipster-ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
