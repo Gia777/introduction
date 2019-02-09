@@ -6,11 +6,6 @@
     <loc>/es/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/projects/photography/"
                 />
@@ -25,11 +20,6 @@
     <loc>/es/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/projects/design/"
                 />
@@ -42,11 +32,6 @@
   
   <url>
     <loc>/es/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/writing/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,11 +54,6 @@
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/blog/startup-ipsum/"
                 />
@@ -89,11 +69,6 @@
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/blog/coffee-ipsum/"
                 />
@@ -107,11 +82,6 @@
   <url>
     <loc>/es/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,11 +100,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/tags/code/"
                 />
@@ -149,11 +114,6 @@
     <loc>/es/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/coffee/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,11 +132,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/tags/images/"
                 />
@@ -191,11 +146,6 @@
     <loc>/es/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -214,11 +164,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/tags/ipsum/"
                 />
@@ -231,11 +176,6 @@
   
   <url>
     <loc>/es/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -254,11 +194,6 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="/tags/"
                 />
@@ -273,11 +208,6 @@
     <loc>/es/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/words/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
