@@ -1,7 +1,7 @@
 baseURL                          = "https://www.giawei.com/"  # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-disqusshortname                 = "the-kindest-thing-you-do-is-leave-a-comment"                       # https://gohugo.io/content-management/comments
+disqusshortname                 = "the-kindest-thing-you-can-do-is-leave-a-comment"                       # https://gohugo.io/content-management/comments
 googleAnalytics                 = "UA-134146062-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
