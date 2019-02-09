@@ -6,4 +6,4 @@ categories: ["R"]
 tags: ["Hanna", "Gia"]
 ---
 
-![](/Users/giawei/blogdown/thankshanna/static/blackheart.jpg)
+![](/content/en/blog/workday.jpg)
