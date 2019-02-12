@@ -5,7 +5,7 @@ disqusshortname                 = "the-kindest-thing-you-can-do-is-leave-a-comme
 googleAnalytics                 = "UA-134146062-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
+    themeStyle                   = "dark"                  # Choose "light" or "dark"
     favicon                      = "/img/blackheart.jpg"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
