@@ -1,9 +1,11 @@
 ---
-title: "Test post jkk"
-author: "Hanna"
-date: 2019-01-16T21:13:14-05:00
-categories: ["R"]
-tags: ["Hanna", "Gia"]
+title: Hello World
+author: Gia
+date: '2019-01-17'
+categories:
+  - R
+tags:
+  - Gia
 ---
 
-![](/content/en/blog/workday.jpg)
+![](/content/en/blog/workday.jpg) 

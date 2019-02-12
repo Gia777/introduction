@@ -45,8 +45,33 @@
   </url>
   
   <url>
+    <loc>/post/2019-02-12-wow/</loc>
+    <lastmod>2019-02-12T14:32:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/wow/</loc>
+    <lastmod>2019-02-12T14:30:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-02-12-ahellofadventure/</loc>
+    <lastmod>2019-02-12T14:22:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-02-12-a-hell-of-adventure/</loc>
+    <lastmod>2019-02-12T14:14:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-02-12-test-post-1/</loc>
+    <lastmod>2019-02-12T14:04:30-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/testpost/</loc>
-    <lastmod>2019-01-16T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -85,8 +110,12 @@
   </url>
   
   <url>
+    <loc>/blog/wow/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2019-01-16T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -133,19 +162,13 @@
   
   <url>
     <loc>/tags/gia/</loc>
-    <lastmod>2019-01-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hanna/</loc>
-    <lastmod>2019-01-16T21:13:14-05:00</lastmod>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-16T21:13:14-05:00</lastmod>
+    <lastmod>2019-02-12T14:32:41-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -189,6 +212,12 @@
                 hreflang="en"
                 href="/tags/ipsum/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-02-12T14:32:41-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

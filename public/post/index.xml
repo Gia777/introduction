@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hi Gia</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Hi Gia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Feb 2019 14:32:41 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 02 12 Wow</title>
+      <link>/post/2019-02-12-wow/</link>
+      <pubDate>Tue, 12 Feb 2019 14:32:41 -0500</pubDate>
+      
+      <guid>/post/2019-02-12-wow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wow</title>
+      <link>/post/wow/</link>
+      <pubDate>Tue, 12 Feb 2019 14:30:36 -0500</pubDate>
+      
+      <guid>/post/wow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 02 12 Ahellofadventure</title>
+      <link>/post/2019-02-12-ahellofadventure/</link>
+      <pubDate>Tue, 12 Feb 2019 14:22:32 -0500</pubDate>
+      
+      <guid>/post/2019-02-12-ahellofadventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 02 12 a Hell of Adventure</title>
+      <link>/post/2019-02-12-a-hell-of-adventure/</link>
+      <pubDate>Tue, 12 Feb 2019 14:14:12 -0500</pubDate>
+      
+      <guid>/post/2019-02-12-a-hell-of-adventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019 02 12 Test Post 1</title>
+      <link>/post/2019-02-12-test-post-1/</link>
+      <pubDate>Tue, 12 Feb 2019 14:04:30 -0500</pubDate>
+      
+      <guid>/post/2019-02-12-test-post-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
