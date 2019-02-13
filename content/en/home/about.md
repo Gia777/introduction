@@ -8,7 +8,7 @@ This is **Introduction**, a minimalist website theme made for [Hugo](https://goh
 
 ### Features
 
-* Responsive display on any size screen
+* 韦易奇
 * Light and Dark themes right out of the box
 * Multilingual - supports side-by-side content in multiple languages
 * Any number of custom index page sections from Markdown files
