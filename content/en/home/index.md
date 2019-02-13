@@ -3,4 +3,4 @@ title: "Hi, I'm Gia Wei"
 headless: true
 ---
 
-I'm a psychopath
+In this crazy enough world, water and poetry keep me sane. 
