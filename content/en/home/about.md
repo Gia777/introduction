@@ -9,7 +9,7 @@ This is **Introduction**, a minimalist website theme made for [Hugo](https://goh
 ### Features
 
 * 韦易奇
-* Light and Dark themes right out of the box
+* In this crazy enough world, water and poetry keep me sane. 
 * Multilingual - supports side-by-side content in multiple languages
 * Any number of custom index page sections from Markdown files
 * _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
