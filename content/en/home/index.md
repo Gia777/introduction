@@ -3,4 +3,4 @@ title: "Hi, I'm Gia Wei"
 headless: true
 ---
 
-I talk about everything under the sun. 
+"but above all, what the hell do I know?"
