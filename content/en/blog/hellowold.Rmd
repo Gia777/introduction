@@ -9,3 +9,5 @@ tags:
 ---
 
 ![](/content/en/blog/workday.jpg) 
+
+![](/img/typewriter.png) 

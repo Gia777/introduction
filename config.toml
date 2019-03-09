@@ -5,13 +5,13 @@ disqusshortname                 = "the-kindest-thing-you-can-do-is-leave-a-comme
 googleAnalytics                 = "UA-134146062-1"                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "light"                  # Choose "light" or "dark"
+    themeStyle                   = "dark"                  # Choose "light" or "dark"
     favicon                      = "/img/typewriter.png"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
+    # email                        = "giawei7788@gmail.com"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
@@ -29,9 +29,8 @@ googleAnalytics                 = "UA-134146062-1"                       # https
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = true
+        email                    = true
         facebook                 = true
-        googlePlus               = true
         instagram                = true
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
@@ -48,10 +47,10 @@ googleAnalytics                 = "UA-134146062-1"                       # https
          icon  = "instagram" # icon name without the 'fa-'
          icon_pack = "fab"
 
- #   [[params.social]]
-#    url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
-      #  icon = "paper-plane" # icon name without the 'fa-'
-       # icon_pack = "fas"
+    [[params.social]]
+          url = "mailto:giawei7788@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+          icon = "envelope" # icon name without the 'fa-'
+          icon_pack = "fas"
   
   
  # [[params.social]]
@@ -91,7 +90,7 @@ googleAnalytics                 = "UA-134146062-1"                       # https
         languageCode     = "es"
         contentDir       = "content/es"
         weight           = 1
-        title            = "Introducción"
+        title            = "Hola Gia"
         [languages.es.params]
             description  = "Descripcion del sitio web"
             # footerText   = ""
